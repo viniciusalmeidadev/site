@@ -1,5 +1,5 @@
 function Home(){
-    return <p>OLA 12</p>
+    return <p>Bem vindo!</p>
 }
 
 export default Home;
